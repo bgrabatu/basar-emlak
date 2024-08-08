@@ -13,7 +13,6 @@
     <li><strong style="color:#f39c12;">Kullanıcı Dostu Arayüz:</strong> Ziyaretçilerin kolayca bilgi bulabilmesi için basit ve etkili bir tasarım.</li>
     <li><strong style="color:#f39c12;">Duyarlı Tasarım:</strong> Mobil ve masaüstü cihazlarla uyumlu, esnek bir yapı.</li>
     <li><strong style="color:#f39c12;">Yönetim Paneli:</strong> Site içeriğinin dinamik olarak yönetilebilmesini sağlayan, kullanıcı dostu bir yönetim arayüzü.</li>
-    <li><strong style="color:#f39c12;">İletişim Formu:</strong> Kullanıcıların hızlı ve kolayca iletişime geçebileceği bir form.</li>
 </ul>
 
 <h2 style="color:#2ecc71;">Yönetim Paneli Özellikleri</h2>
