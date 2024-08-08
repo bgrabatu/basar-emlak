@@ -26,17 +26,17 @@
 <h2 style="color:#2ecc71;">Görseller</h2>
 <p>Web sitesinin ve yönetim panelinin bazı bölümlerine ait görseller aşağıda sunulmuştur:</p>
 <!-- Görsel 1 -->
-<img src="https://www.ornek-domein.com/basar-emlak-gorsel1.jpg" alt="Websitesi Ana Sayfa" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%;">
+<img src="screenshots/desktop.png" alt="Websitesi Ana Sayfa" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%;">
 <!-- Görsel 2 -->
-<img src="https://www.ornek-domein.com/basar-emlak-gorsel2.jpg" alt="Yönetim Paneli" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="screenshots/desktop-two.png" alt="Yönetim Paneli" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
 
 <h2 style="color:#2ecc71;">Websitesi Linki</h2>
 <p>Projeyi canlı olarak görmek için <a href="https://www.ornek-domein.com" target="_blank" style="color:#2980b9; text-decoration: none;">buraya tıklayın</a>.</p>
 
 <h2 style="color:#2ecc71;">Kod Paylaşımı</h2>
-<p>Bu proje, kendimi geliştirmek amacıyla yapılan bir çalışma olup, GitHub'da açık kaynak olarak paylaşılmıştır. Projenin kodlarına erişmek için <a href="https://github.com/ornek-repo-linki" target="_blank" style="color:#2980b9; text-decoration: none;">buraya tıklayın</a>.</p>
+<p>Bu proje, kendimi geliştirmek amacıyla yapılan bir çalışma olup, GitHub'da açık kaynak olarak paylaşılmıştır. Projenin kodlarına erişmek için <a href="https://github.com/bgrabatu/basar-emlak" target="_blank" style="color:#2980b9; text-decoration: none;">buraya tıklayın</a>.</p>
 
 <h2 style="color:#2ecc71;">İletişim</h2>
-<p>Bu projeyle ilgili detaylar veya geri bildirim için <a href="mailto:bugrabatuhanbasar@gmail.com" style="color:#c0392b; text-decoration: none;">buradan</a> bana ulaşabilirsiniz.</p>
+<p>Bu projeyle ilgili detaylar veya geri bildirim için <a href="mailto:treebsoftware@gmail.com" style="color:#c0392b; text-decoration: none;">buradan</a> bana ulaşabilirsiniz.</p>
 
 <p><em>Bu proje, web geliştirme becerilerini artırmak için kişisel bir çalışma olarak tasarlanmıştır.</em></p>
