@@ -32,7 +32,7 @@
 <img src="screenshots/desktop-four.png" alt="Yönetim Paneli" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
 <img src="screenshots/admin-panel.png" alt="Yönetim Paneli" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
 <img src="screenshots/admin-panel-two.png" alt="Yönetim Paneli" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
-<img src="screenshots/admin-three.png" alt="Yönetim Paneli" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="screenshots/admin-panel-three.png" alt="Yönetim Paneli" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
 
 <h2 style="color:#2ecc71;">Kod Paylaşımı</h2>
 <p>Bu proje, kendimi geliştirmek amacıyla yapılan bir çalışma olup, GitHub'da açık kaynak olarak paylaşılmıştır. Projenin kodlarına erişmek için <a href="https://github.com/bgrabatu/basar-emlak" target="_blank" style="color:#2980b9; text-decoration: none;">buraya tıklayın</a>.</p>
